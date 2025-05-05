@@ -1,1 +1,1 @@
-from .b_logic import do_b_stuff
+from .moduleB import do_b_stuff

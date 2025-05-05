@@ -1,2 +1,2 @@
 def do_b_stuff():
-    return "Magic from module B"
+    return "Je suis le module B, respect mon nom"
